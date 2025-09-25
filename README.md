@@ -17,103 +17,12 @@ We help organizations accelerate their cloud journey with laser focus on **autom
 
 ## 🚀 Our Services  
 
-At **CloudDrove**, we specialize in building reliable, secure, and cost-efficient cloud solutions. Here’s how we can help your team:
+<img width="1180" height="1016" alt="image" src="https://github.com/user-attachments/assets/5626feb3-52e1-461a-a41a-8bb998d91933" />
 
-
-
-### 🌐 Cloud Migration & Strategy  
-We help you **plan and execute cloud migrations** with minimal disruption.  
-Our strategies focus on **performance, cost-efficiency, and security** , ensuring a smooth transition to Azure, AWS, or GCP.  
-
-
-
-### ⚙️ DevOps & Automation  
-Increase efficiency and speed with **DevOps-driven automation** to streamline your software delivery lifecycle.   
-We implement:  
-- Robust CI/CD pipelines  
-- Configuration management  
-- Infrastructure as Code (Terraform)  
-
-
-
-
-
-### 🐳 Kubernetes & Containerization  
-Leverage the power of **containers and Kubernetes** for scalable and resilient applications.  
-We help design, deploy, and manage Kubernetes clusters to run **complex workloads with ease**.  
-
-
-
-### 📊 Cloud Observability  
-Gain deep **insights** into your systems with comprehensive monitoring, logging, and tracing. We set up robust **observability** stacks that provide real-time visibility and help you quickly identify and resolve issues.
-
-
-
-
-### 🔒 Cloud Security & Compliance  
-Security is built into everything we do.  
-We integrate **guardrails, compliance checks, and zero-trust principles** across your cloud journey, ensuring:  
-- Data protection  
-- Regulatory compliance  
-- Proactive threat defense  
-
-
-
-### 🛠️ Cloud Operations & Managed Services  
-Focus on your business while we manage the cloud for your environment stays secure and reliable.
-Our **managed services** include:  
-- 24/7 monitoring  
-- Infrastructure patching & updates  
-- Performance optimization  
-
-
-
-
-### 💰 Cloud Cost Optimization  
-Control and reduce your cloud spending without sacrificing performance. We analyze your usage, identify inefficiencies,  implement cost-saving strategies, and provide ongoing recommendations to maximize ROI without sacrificing performance.
 
 ---
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/2af3447d-2149-43fc-9491-2512d798be57" />
+<img width="1180" height="1016" alt="image" src="https://github.com/user-attachments/assets/1f1333fa-2306-4bcc-9b83-95a288af62cc" />
 
----
-
-## 🌍 Where We Build  
-
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" height="80"/>
-</p>
-
----
-
-## 🛠️ What We Use  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="80"/>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pulumi/pulumi-original.svg" alt="Pulumi" height="80"/>
-</p>
 
 ---
 
