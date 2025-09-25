@@ -73,6 +73,9 @@ Our **managed services** include:
 Control and reduce your cloud spending without sacrificing performance. We analyze your usage, identify inefficiencies,  implement cost-saving strategies, and provide ongoing recommendations to maximize ROI without sacrificing performance.
 
 ---
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/2af3447d-2149-43fc-9491-2512d798be57" />
+
+---
 
 ## 🌍 Where We Build  
 
